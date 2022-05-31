@@ -15,7 +15,7 @@ public class CreateCampaignNameTest extends BaseClass
 	CreateNewCampaignPage createNewCampaign;
 	CampaignValidatePage campaignValidatePage;
 
-
+// annotations
 	@Test
 	public  void  createCampaignTest()
 	{
