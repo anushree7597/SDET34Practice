@@ -22,7 +22,7 @@ public class jenkinwithParameter {
 		Reporter.log(browser, true);
 		Reporter.log("test1", false);
 	}
-
+       // changes in another line
 	@BeforeSuite
 	public void beforesuite1Test() {
 		Reporter.log("beforesuite1", true);
