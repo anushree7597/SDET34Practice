@@ -26,7 +26,7 @@ public class jenkinwithParameter {
 	public void beforesuite1Test() {
 		Reporter.log("beforesuite1", true);
 	}
-	
+	//changes in another line
 	@AfterSuite
 	public void aftersuite1Test() {
 		Reporter.log("aftersuite1", true);
