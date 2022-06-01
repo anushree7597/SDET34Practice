@@ -12,7 +12,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class jenkinwithParameter {
-	//changes from b1
+	//changes from b1 recently
 	public void testStep1Test()
 	{
 		String browser=System.getProperty("browser");
